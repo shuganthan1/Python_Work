@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="436b0a4f-e44f-4fcc-ae1a-45e51afb7c64" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/wk4 thurs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wk4 thurs.py" beforeDir="false" afterPath="$PROJECT_DIR$/wk4 thurs.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +23,9 @@
     <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="ProjectId" id="1ZDa5w6r3Pw5CWi0hzM9KrqoJeS" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -46,7 +50,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tt1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/wk4 thurs.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -86,7 +90,14 @@
       <option name="project" value="LOCAL" />
       <updated>1584544594580</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="game">
+      <created>1584604729913</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1584604729913</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -113,50 +124,55 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="hello" />
     <MESSAGE value="game" />
     <option name="LAST_COMMIT_MESSAGE" value="game" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="436" y="11" key="CommitChangelistDialog2" timestamp="1584544593867">
+    <state x="223" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584613182297">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="436" y="11" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1584544593867" />
+    <state x="223" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1584613182297" />
+    <state x="436" y="11" key="CommitChangelistDialog2" timestamp="1584604728966">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="436" y="11" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1584604728966" />
     <state x="549" y="170" key="FileChooserDialogImpl" timestamp="1584472284115">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1584472284115" />
-    <state width="1515" height="210" key="GridCell.Tab.0.bottom" timestamp="1584603469479">
+    <state width="1515" height="210" key="GridCell.Tab.0.bottom" timestamp="1584635370303">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1584603469479" />
-    <state width="1515" height="210" key="GridCell.Tab.0.center" timestamp="1584603469478">
+    <state width="1515" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1584635370303" />
+    <state width="1515" height="210" key="GridCell.Tab.0.center" timestamp="1584635370303">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1584603469478" />
-    <state width="1515" height="210" key="GridCell.Tab.0.left" timestamp="1584603469477">
+    <state width="1515" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1584635370303" />
+    <state width="1515" height="210" key="GridCell.Tab.0.left" timestamp="1584635370303">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1584603469477" />
-    <state width="1515" height="210" key="GridCell.Tab.0.right" timestamp="1584603469479">
+    <state width="1515" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1584635370303" />
+    <state width="1515" height="210" key="GridCell.Tab.0.right" timestamp="1584635370303">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1584603469479" />
+    <state width="1515" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1584635370303" />
     <state x="279" y="58" key="SettingsEditor" timestamp="1584553677219">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="279" y="58" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1584553677219" />
-    <state x="0" y="151" key="Vcs.Push.Dialog.v2" timestamp="1584545570040">
+    <state x="0" y="151" key="Vcs.Push.Dialog.v2" timestamp="1584604767134">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="0" y="151" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1584545570040" />
+    <state x="0" y="151" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1584604767134" />
     <state x="477" y="240" key="com.intellij.ide.util.TipDialog" timestamp="1584603322847">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="477" y="240" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1584603322847" />
-    <state x="580" y="331" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1584604705526">
+    <state x="580" y="331" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1584635385612">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="580" y="331" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1584604705526" />
+    <state x="580" y="331" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1584635385612" />
   </component>
 </project>
