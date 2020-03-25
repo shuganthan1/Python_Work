@@ -29,3 +29,12 @@ for i in range(1, mr + 1):
 
     # saving the destination excel file
 dat10.save(str("data10.xlsx"))
+
+#changing name of sheet in excel file
+import xlsxwriter
+data9 = xlsxwriter.Workbook("data9.xlsx")
+worksheet = data9.add_worksheet("Data_9.xlsx")
+worksheet.write("A1", "Data 9")
+worksheet.name = "Data 9 Team" # This line of code will change the name of sheet in our excel file
+data9.close()
+
