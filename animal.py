@@ -1,5 +1,6 @@
 #four pillars of object oriented programming
 #abstraction,inheritance, encapusation, polymorphism
+
 #abstraction - displaying only essential info to user and hiding the detail from user
 
 class Animal ():

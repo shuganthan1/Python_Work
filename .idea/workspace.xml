@@ -2,12 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="436b0a4f-e44f-4fcc-ae1a-45e51afb7c64" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sql.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/create_excel.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/excel/create_write.py" beforeDir="false" afterPath="$PROJECT_DIR$/excel/create_write.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/excel/excell.py" beforeDir="false" afterPath="$PROJECT_DIR$/excel/excell.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wk5_Mon_unit_testing.py" beforeDir="false" afterPath="$PROJECT_DIR$/Wk5_Mon_unit_testing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/animal.py" beforeDir="false" afterPath="$PROJECT_DIR$/animal.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reptile.py" beforeDir="false" afterPath="$PROJECT_DIR$/reptile.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sql.py" beforeDir="false" afterPath="$PROJECT_DIR$/sql.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/student.py" beforeDir="false" afterPath="$PROJECT_DIR$/student.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unittestingfunctions.py" beforeDir="false" afterPath="$PROJECT_DIR$/unittestingfunctions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week 2 Mon.py" beforeDir="false" afterPath="$PROJECT_DIR$/week 2 Mon.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wk4 thurs.py" beforeDir="false" afterPath="$PROJECT_DIR$/wk4 thurs.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,10 +40,10 @@
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../mouse-clicking game.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.excell">
+  <component name="RunManager" selected="Python.student">
     <configuration name="create_write" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="test" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -104,7 +107,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="mod_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="sql" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="test" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -116,7 +119,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mod_2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sql.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -125,7 +128,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="python_excel" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="student" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="test" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -133,11 +136,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/excel" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/excel/python_excel.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/student.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -148,11 +151,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.student" />
+        <item itemvalue="Python.sql" />
         <item itemvalue="Python.excell" />
         <item itemvalue="Python.csv_python" />
         <item itemvalue="Python.create_write" />
-        <item itemvalue="Python.python_excel" />
-        <item itemvalue="Python.mod_2" />
       </list>
     </recent_temporary>
   </component>
@@ -209,7 +212,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585069900631</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="updated work">
+      <created>1585133708165</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1585133708165</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -251,42 +261,42 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="150" y="222" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1585069558164" />
-    <state x="436" y="11" key="CommitChangelistDialog2" timestamp="1585069898904">
+    <state x="436" y="11" key="CommitChangelistDialog2" timestamp="1585133707237">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="436" y="11" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1585069898904" />
+    <state x="436" y="11" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1585133707237" />
     <state x="549" y="170" key="FileChooserDialogImpl" timestamp="1584472284115">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1584472284115" />
-    <state width="746" height="215" key="GridCell.Tab.0.bottom" timestamp="1585131787082">
+    <state width="1515" height="212" key="GridCell.Tab.0.bottom" timestamp="1585722969644">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="746" height="215" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585131787082" />
-    <state width="746" height="215" key="GridCell.Tab.0.center" timestamp="1585131787081">
+    <state width="1515" height="212" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585722969644" />
+    <state width="1515" height="212" key="GridCell.Tab.0.center" timestamp="1585722969644">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="746" height="215" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1585131787081" />
-    <state width="746" height="215" key="GridCell.Tab.0.left" timestamp="1585131787081">
+    <state width="1515" height="212" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1585722969644" />
+    <state width="1515" height="212" key="GridCell.Tab.0.left" timestamp="1585722969644">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="746" height="215" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1585131787081" />
-    <state width="746" height="215" key="GridCell.Tab.0.right" timestamp="1585131787082">
+    <state width="1515" height="212" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1585722969644" />
+    <state width="1515" height="212" key="GridCell.Tab.0.right" timestamp="1585722969644">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="746" height="215" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1585131787082" />
-    <state x="279" y="58" key="SettingsEditor" timestamp="1584979222162">
+    <state width="1515" height="212" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1585722969644" />
+    <state x="279" y="58" key="SettingsEditor" timestamp="1585215652199">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="279" y="58" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1584979222162" />
-    <state x="0" y="151" key="Vcs.Push.Dialog.v2" timestamp="1585069908670">
+    <state x="279" y="58" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1585215652199" />
+    <state x="0" y="151" key="Vcs.Push.Dialog.v2" timestamp="1585133735114">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="0" y="151" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1585069908670" />
-    <state x="477" y="240" key="com.intellij.ide.util.TipDialog" timestamp="1585126582013">
+    <state x="0" y="151" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1585133735114" />
+    <state x="477" y="240" key="com.intellij.ide.util.TipDialog" timestamp="1586349136297">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="477" y="240" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1585126582013" />
+    <state x="477" y="240" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1586349136297" />
     <state x="580" y="331" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1585133681224">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
