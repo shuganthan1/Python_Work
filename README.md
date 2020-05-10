@@ -12,7 +12,6 @@ Creating an Excel workbook
 Creating and renaming worksheets
 
 OPENPYXL Module:
-
 Creating a new workbook
 Modifying an existing workbook
 Saving data into a new Excel file
