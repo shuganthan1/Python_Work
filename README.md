@@ -1,8 +1,22 @@
-#Four Pillars of Object-oriented Programming
 
-##Objectives
+Python Concepts:
 
-###This lesson describes the definition and uses of 4 pillars
+Variables
+For/while loops
+IF statements
+Daily Exercises
+Games Project
 
-Lab exercise:
-1.Create a class named student with at least 2 methods
+XLSX Module:
+Creating an Excel workbook
+Creating and renaming worksheets
+OPENPYXL Module:
+
+Creating a new workbook
+Modifying an existing workbook
+Saving data into a new Excel file
+
+CSV Module:
+Reading CSV files
+Writing CSV files
+Saving transformed data into new CSV file
